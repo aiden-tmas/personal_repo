@@ -15,3 +15,11 @@ My name is Aiden Thomas
    >>(copy commands from github, paste into terminal)
    > git push -u origin main
 
+-Working Repository:
+ --Local
+ >If this is a new feature:
+  > git checkout -b <branch-name>
+  > Development
+  > git add .
+  > git commit -m "explitic but short message explaining changes"
+  > git push -u <remote> <branch-name>
