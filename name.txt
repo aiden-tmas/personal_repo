@@ -17,12 +17,16 @@ My name is Aiden Thomas
 
 -Working Repository:
  --Local
- >If this is a new feature:
+ > If this is a new feature:
   > git checkout -b <branch-name>
   > Development
   > git add .
   > git commit -m "explicit but short message explaining changes"
   > git push -u <remote> <branch-name>
+ > Current feature
+  > git add .
+  > git commit -m "<message>"
+  > git push
 
 --Helpful
  >git status
