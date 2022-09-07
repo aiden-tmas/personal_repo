@@ -11,7 +11,7 @@ My name is Aiden Thomas
  --Remote (Github)
  > Login
  > Create a Repository (name similar to local project or same as local project)
- > Go to the local git repo, add remote, change master branch,
+ > Go to the local git repo, add remote, change master branch to main, push commit history
    >>(copy commands from github, paste into terminal)
    > git push -u origin main
 
@@ -21,5 +21,5 @@ My name is Aiden Thomas
   > git checkout -b <branch-name>
   > Development
   > git add .
-  > git commit -m "explitic but short message explaining changes"
+  > git commit -m "explicit but short message explaining changes"
   > git push -u <remote> <branch-name>
