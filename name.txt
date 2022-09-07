@@ -1,0 +1,17 @@
+My name is Aiden Thomas
+
+**Workflow
+-New repo:
+ --Local
+ >git init
+ >worked on our changes
+ >git add .
+ >git commit -m "first commit" OR "initial commit"
+
+ --Remote (Github)
+ > Login
+ > Create a Repository (name similar to local project or same as local project)
+ > Go to the local git repo, add remote, change master branch,
+   >>(copy commands from github, paste into terminal)
+   > git push -u origin main
+
