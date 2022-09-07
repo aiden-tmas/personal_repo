@@ -23,3 +23,6 @@ My name is Aiden Thomas
   > git add .
   > git commit -m "explicit but short message explaining changes"
   > git push -u <remote> <branch-name>
+
+--Helpful
+ >git status
